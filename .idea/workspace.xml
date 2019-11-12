@@ -58,7 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PropertyFileApplicationContext">
+  <component name="RunManager" selected="Application.Config">
+    <configuration name="Config" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="screensaver.Config" />
+      <module name="Spring Попрошитель" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="screensaver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quoters.Main" />
       <module name="Spring Попрошитель" />
@@ -87,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Config" />
         <item itemvalue="Application.PropertyFileApplicationContext" />
         <item itemvalue="Application.Main" />
       </list>
@@ -131,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573564512474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fifth Commit">
+      <created>1573566441643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573566441643</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +170,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Fourth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
+    <MESSAGE value="Fifth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit" />
   </component>
 </project>
