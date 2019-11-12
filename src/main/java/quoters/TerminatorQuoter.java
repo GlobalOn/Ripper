@@ -3,6 +3,7 @@ package quoters;
 import javax.annotation.PostConstruct;
 
 @Profiling
+@DeprecatedClass(newImpl = T1000.class)
 public class TerminatorQuoter implements Quoter {
 
     public TerminatorQuoter() {

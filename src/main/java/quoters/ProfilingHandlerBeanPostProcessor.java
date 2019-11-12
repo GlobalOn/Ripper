@@ -22,6 +22,7 @@ public class ProfilingHandlerBeanPostProcessor implements BeanPostProcessor {
     private Map<String, Class> map = new HashMap<String, Class>();
     private ProfilingController controller = new ProfilingController();
 
+
     public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeansException {
 
         Class<?> aClass = bean.getClass();

@@ -8,12 +8,14 @@ import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 public class PostProxyInvokerContextListener implements ApplicationListener<ContextRefreshedEvent> {
 
     @Autowired
     private ConfigurableListableBeanFactory factory;
-   
+
+
     public void onApplicationEvent(ContextRefreshedEvent event) {
         ApplicationContext context = event.getApplicationContext();
         String[] names = context.getBeanDefinitionNames();
