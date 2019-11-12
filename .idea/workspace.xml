@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="45df005a-29c0-4adc-890d-231ef5610379" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/quoters/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/ProfilingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/ProfilingController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/context.xml" afterDir="false" />
     </list>
@@ -16,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573550141673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1573556839942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573556839942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

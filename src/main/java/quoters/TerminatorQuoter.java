@@ -9,6 +9,7 @@ public class TerminatorQuoter implements Quoter {
         System.out.println("Phase 1");
     }
 
+
     @PostConstruct
     public void init() {
         System.out.println("Phase 2");
@@ -24,7 +25,9 @@ public class TerminatorQuoter implements Quoter {
         this.message = message;
     }
 
+    @PostProxy
     public void sayQuote() {
+        System.out.println("phase 3");
         for (int i = 0; i < repeat; i++) {
             System.out.println("message: " + message);
 

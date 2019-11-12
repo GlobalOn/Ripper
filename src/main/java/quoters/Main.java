@@ -7,9 +7,7 @@ public class Main {
         ClassPathXmlApplicationContext context =
                 new ClassPathXmlApplicationContext("context.xml");
 
-        while (true) {
-            Thread.sleep(3000);
-            context.getBean(Quoter.class).sayQuote();
-        }
+
+
     }
 }
