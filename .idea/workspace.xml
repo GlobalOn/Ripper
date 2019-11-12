@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45df005a-29c0-4adc-890d-231ef5610379" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/InjectRandomIntAnnotationBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/InjectRandomIntAnnotationBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/PostProxyInvokerContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/PostProxyInvokerContextListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/ProfilingHandlerBeanPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/ProfilingHandlerBeanPostProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quoters/TerminatorQuoter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/context.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PropertyFileApplicationContext">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quoters.Main" />
       <module name="Spring Попрошитель" />
@@ -78,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertyFileApplicationContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quoters.PropertyFileApplicationContext" />
+      <module name="Spring Попрошитель" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quoters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertyFileApplicationContext" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -116,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573560355423</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fourth Commit">
+      <created>1573564512474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573564512474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Third Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Commit" />
+    <MESSAGE value="Fourth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit" />
   </component>
 </project>
