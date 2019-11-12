@@ -10,6 +10,10 @@ http://www.springframework.org/schema/context http://www.springframework.org/sch
         <property name="message" value="I`ll be back"/>
     </bean>
 
+    <bean class="quoters.ProfilingHandlerBeanPostProcessor" />
+
     <bean class="quoters.InjectRandomIntAnnotationBeanPostProcessor" />
+
+    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor"/>
 
 </beans>
