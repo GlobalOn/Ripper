@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="45df005a-29c0-4adc-890d-231ef5610379" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/screensaver/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/screensaver/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/context.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +39,7 @@
   <component name="ProjectId" id="1TVVLSRXh3DOmnzVae10WmlEyMf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -77,7 +80,7 @@
       <module name="Spring Попрошитель" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quoters.*" />
+          <option name="PATTERN" value="screensaver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +93,7 @@
       <module name="Spring Попрошитель" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quoters.*" />
+          <option name="PATTERN" value="screensaver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573566441643</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sixth Commit">
+      <created>1573568906518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573568906518</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +181,7 @@
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Fourth Commit" />
     <MESSAGE value="Fifth Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit" />
+    <MESSAGE value="Sixth Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth Commit" />
   </component>
 </project>

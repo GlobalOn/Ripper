@@ -11,7 +11,7 @@ import java.util.Random;
 public class Config {
 
     @Bean
-    @Scope("prototype")
+    @Scope("periodical")
     public Color color(){
         Random random = new Random();
         return new Color
